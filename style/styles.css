@@ -1,0 +1,118 @@
+p {
+    text-align: center;
+    font-family: 'DpQuake', sans-serif;
+    color: white;
+    padding-top: auto;
+}
+
+html {
+    background-image: url(metalgrate.png);
+    background-size: auto;
+
+}
+
+header {
+    padding-left: 4px;
+    padding-top: 4px;
+    color: blue;
+    border: 20px;
+}
+
+header:hover {
+    color: red;
+}
+
+.ew {
+    border: 10px;
+    padding-left: 40px;
+    text-align: right;
+}
+
+h2 {
+    text-align: right;
+    position: relative;
+}
+
+A .middle {
+    padding-left: 750px;
+}
+
+.vl {
+    border-left: 6px solid black;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.borderimg {
+    border-style: ridge;
+    border: solid black;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.rotate:hover {
+    transform: rotate(-10deg);
+}
+
+.rotate {
+    transition: transform .2s;
+}
+
+body {
+    background-image: url(metalgrate.png);
+    font-family: 'DpQuake', sans-serif;
+}
+
+nav {
+    background-image: url(brick.png);
+    border: solid black;
+}
+
+.card-text {
+    color: black
+}
+
+.card {
+    border: solid black;
+    background-image: url(crackedbrick.png);
+
+}
+
+.card>.card1 {
+    display: inline-block;
+}
+
+.card-text,
+.card-title {
+    color: white;
+}
+
+.btn-primary {
+    color: white;
+    background-image: url(redbrick.png);
+    border: solid black;
+}
+
+.form-control {
+    background-image: url(lightbrick.png);
+    color: white;
+}
+.top-padding {
+    padding-top: 10px;
+}
+.me-2, .form-control{
+    color: white;
+}

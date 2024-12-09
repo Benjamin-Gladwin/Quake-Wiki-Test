@@ -72,12 +72,13 @@ h1 {
 }
 
 body {
-    background-image: url(metalgrate.png);
+    background-image: url(cobblestone.png);
     font-family: 'DpQuake', sans-serif;
+    min-height: 100vh;
 }
 
 nav {
-    background-image: url(brick.png);
+    background-image: url(rust.png);
     border: solid black;
 }
 
@@ -107,8 +108,9 @@ nav {
 }
 
 .form-control {
-    background-image: url(lightbrick.png);
+    background-image: url();
     color: white;
+    border: solid,black;
 }
 .top-padding {
     padding-top: 10px;

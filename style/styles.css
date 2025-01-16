@@ -83,7 +83,7 @@ nav {
 }
 
 .card-text {
-    color: black
+    color: black;
 }
 
 .card {
@@ -122,4 +122,8 @@ nav {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
+}
+.brickbg {
+    background-image: url(quakebrick.png);
+    border: solid black;
 }
